@@ -23,7 +23,7 @@ A feature-rich blogging website made with Django
 * Install the dependencies from requirements.md
     * `python3 -m pip install -r requirements.md`
 * cd into `django_projects` until you see `manage.py`
-    `python3 manage.py runserver`
+* Run `python3 manage.py runserver`
 * If no errors pop-up the site should be up on 127.0.0.1:8000
 
 ### Happy Blogging
