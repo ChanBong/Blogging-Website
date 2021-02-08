@@ -1,7 +1,7 @@
 # Blogging-Website
 A feature-rich blogging website made with Django
 
-## This is a blogging website made using Django framework. This site can handle all the features a user want from a blogging website
+This is a blogging website made using Django framework. This site can handle all the features a user want from a blogging website
 
 * [Features](#what)
 * [How to get started ?](#start)
