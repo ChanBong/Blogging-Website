@@ -7,3 +7,4 @@ Pillow==8.1.0
 pytz==2018.5
 requests==2.19.1
 urllib3==1.23
+
